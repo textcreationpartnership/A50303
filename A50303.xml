@@ -1,0 +1,537 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tri-unity, or, The doctrin of the Holy Trinity asserted in a discourse on 2 Cor. XIII. XIV / by Isaac Mauduit ...</title>
+            <author>Mauduit, Isaac.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 63 KB of XML-encoded text transcribed from 29 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50303</idno>
+            <idno type="STC">Wing M1334</idno>
+            <idno type="STC">ESTC R32420</idno>
+            <idno type="EEBO-CITATION">12677985</idno>
+            <idno type="OCLC">ocm 12677985</idno>
+            <idno type="VID">65603</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50303)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 65603)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1531:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Tri-unity, or, The doctrin of the Holy Trinity asserted in a discourse on 2 Cor. XIII. XIV / by Isaac Mauduit ...</title>
+                  <author>Mauduit, Isaac.</author>
+               </titleStmt>
+               <extent>[8], 43 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Hannah Clark for John Dunton ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Corinthians, 2nd, XIII, 14.</term>
+               <term>Trinity.</term>
+               <term>Theology, Doctrinal.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:65603:1"/>
+            <p>
+               <hi>TRI-<g ref="char:V">Ʋ</g>NITY:</hi> OR THE DOCTRIN OF THE <hi>Holy Trinity,</hi> ASSERTED, IN A DISCOURSE ON 2 <hi>Cor.</hi> XIII. xiv.</p>
+            <p>
+               <hi>By</hi> ISAAC MAUDUIT, <hi>Miniſter of the Goſpel.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Hannah Clark,</hi> for <hi>Iohn Dunton,</hi> at the <hi>Raven</hi> in the <hi>Poultrey.</hi> 1694.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:65603:2"/>
+            <pb facs="tcp:65603:2"/>
+            <head>THE PREFACE, TO Them that Love the Lord <hi>Jeſus</hi> in Sincerity, at <hi>Toot<g ref="char:EOLhyphen"/>ing,</hi> and in the Neigh<g ref="char:EOLhyphen"/>bourhood.</head>
+            <opener>
+               <salute>Dearly Beloved in the Lord,</salute>
+            </opener>
+            <p>THE Soundneſs of your Judgments in the Do<g ref="char:EOLhyphen"/>ctrins of the Goſpel; your entire <g ref="char:V">Ʋ</g>nion amongſt your ſelves, and the Generouſneſs of your Spirit, is your Glory, as Chriſtians, your Strength, as a
+<pb facs="tcp:65603:3"/>Society, and my Encouragement, as a Miniſter. Three Years I have Labour'd amongſt you; and I truſt, that the Lord of the <hi>Vineyard</hi> will not Sentence a<g ref="char:EOLhyphen"/>ny of you, as not finding in you the expected <hi>Fruit.</hi> Moſt Con<g ref="char:EOLhyphen"/>gregations may ſadly Bewail the fewneſs of Converts; but I Re<g ref="char:EOLhyphen"/>joyce that God has given me your <hi>Hearts;</hi> and I readily return them to the Donor, by deſiring to eſpouſe and preſent you to <hi>Chriſt.</hi> You know I affect not te<g ref="char:EOLhyphen"/>diouſneſs on any Subjects, that from proper Texts (<hi>I</hi> might through Divine aſſiſtance) de<g ref="char:EOLhyphen"/>clare to you the whole Council of God. Tho' in the courſe of
+<pb facs="tcp:65603:3"/>my Miniſtry I have in ſet Diſ<g ref="char:EOLhyphen"/>courſes laboured to eſtabliſh your Minds in the Exiſtence of a God; in the Deity of our Bleſſed Redeemer, and in his being the true <hi>Meſſiah.</hi>
+            </p>
+            <p>I now tender (what ſeveral of you have lately heard) an Aſ<g ref="char:EOLhyphen"/>ſerting of the <hi>Holy Trinity.</hi> Theſe Bleſſed Perſons, the <hi>Fa<g ref="char:EOLhyphen"/>ther, Son,</hi> and <hi>Holy Ghoſt,</hi> have contriv'd, effected and do apply our Redemption; they are that <hi>One God</hi> whom we Adore, and I hope ſhall be the Object of our eternal Praiſes.</p>
+            <p>I expoſe this to the publick View, not from the leaſt conceit
+<pb facs="tcp:65603:4"/>of the ſtreſs of my Arguing; but to awaken ſome Acute Pen, which may deſignedly treat of this Subject, and anſwer the Cavils of late Pamphlets. Alſo ſeveral of you being at your Re<g ref="char:EOLhyphen"/>ſidences in <hi>London,</hi> hereby I truſt to be Serviceable to you in your Abſence; and to teſtifie that the ſmallneſs of my Auditory in the Winter, is no temptation to me to cauſe the Offerings of the the Lord to be abhorred, by doing my Office Negligently. God con<g ref="char:EOLhyphen"/>firm you in the Truth as it is in <hi>Jeſus,</hi> and make me and you a Bleſſing to each other; that we may rejoice in the <hi>Great Day.</hi> I crave your daily earneſt Pray<g ref="char:EOLhyphen"/>ers,
+<pb facs="tcp:65603:4"/>that my Miniſterial endea<g ref="char:EOLhyphen"/>vours may be attended with the fulneſs of the Bleſſing of the Goſpel of <hi>Chriſt:</hi> And whilſt (in theſe Parts) I ſhall delight to be</p>
+            <closer>
+               <signed>Your Watchman, Brother and Servant in the Lord, <hi>I. M.</hi>
+               </signed>
+               <dateline>
+                  <date>Feb. <hi>5. 1693/4.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="discourse">
+            <pb facs="tcp:65603:5"/>
+            <pb n="1" facs="tcp:65603:5"/>
+            <head>THE DOCTRINE OF THE TRINITY.</head>
+            <epigraph>
+               <bibl>
+                  <hi>II COR. xiii. 14.</hi>
+               </bibl>
+               <q>The grace of our Lord Jeſus Chriſt, the love of God, and the Communion of the Holy Ghoſt be with you all.</q>
+            </epigraph>
+            <p>THE Text is the cloſe of this <hi>Epistle,</hi> which the <hi>Apoſtle</hi> ſhuts up with a wiſh of the greateſt Happineſs to the <hi>Corinthians.</hi>
+            </p>
+            <p>He took his leave of them as a <hi>Chriſti<g ref="char:EOLhyphen"/>an,</hi>
+               <pb n="2" facs="tcp:65603:6"/>and as a <hi>Minister,</hi> with excellent Counſels and Prayers.</p>
+            <q>His Counſel or Directions are com<g ref="char:EOLhyphen"/>priz'd in Verſe 1.</q>
+            <p>
+               <hi>Be perfect, be of good comfort, be of one mind, live in peace.</hi>
+            </p>
+            <p>Be perfect, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: Be compact and united, like Members of one Body, as parts of the ſame Houſe; Union condu<g ref="char:EOLhyphen"/>cing much to the perfection of a Society. This perfection doth not here ſo imme<g ref="char:EOLhyphen"/>diately reſpect an improvement of the members in the habits and exerciſe of grace, (though this be very deſirable) as a per<g ref="char:EOLhyphen"/>fecting of the Body of the Church; by reſtoring (upon Repentance) ſuch as were for Scandal ſeparated from their Com<g ref="char:EOLhyphen"/>munion; and by reducing ſuch as from a contentious humour had withdrawn from this Fellowſhip: The Verb imports a ſet<g ref="char:EOLhyphen"/>ting Members that were out of joynt, in<g ref="char:EOLhyphen"/>to their proper place again.</p>
+            <p>
+               <hi>Be of one mind:</hi> If poſſible, maintain the ſame judgment in the Articles of your Faith; at leaſt purſue the ſame ſcope or end, in the intireneſs of your Affections.</p>
+            <p>
+               <hi>Be of good comfort,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: The word may be rendred,</p>
+            <p>Be exhorted to obey theſe Precepts.</p>
+            <p>
+               <pb n="3" facs="tcp:65603:6"/>Be confirmed in Divine Truths, or eſta<g ref="char:EOLhyphen"/>bliſht in the good ways of God.</p>
+            <p>Or keep up a good Heart, be chearful under all your Tryals; drop not your En<g ref="char:EOLhyphen"/>couragement under any Afflictions, which you may yet meet with, for the profeſſi<g ref="char:EOLhyphen"/>on of the Goſpel.</p>
+            <p>
+               <hi>Live in peace;</hi> be as free as you can from Diviſion, Strife, Wrath, Debate, Envyings; wherein you have been too faulty in times paſt.</p>
+            <p>How happy would the Churches of Chriſt be, did they attend to this <hi>Apoſto<g ref="char:EOLhyphen"/>lical Counſel!</hi>
+            </p>
+            <p>His Prayer is in the Text: St. <hi>Paul</hi> here wiſhes abundant Grace and Mercy to all the Members of this Church.</p>
+            <p>
+               <hi>Omnia Testamenti beneficia a Paulo Apo<g ref="char:EOLhyphen"/>ſtolo comprehenduntur, ſub gratia Chriſti, Patris amore, &amp; Spiritus ſancti commu<g ref="char:EOLhyphen"/>nione.</hi>
+            </p>
+            <p>In which Addreſſes to Heaven, note,</p>
+            <p n="1">1. The Object of this Supplication; The Lord Jeſus Chriſt, God, and the Ho<g ref="char:EOLhyphen"/>ly Ghoſt; from whom as the Supream
+<pb n="4" facs="tcp:65603:7"/>Author or Original, deſcends every good and perfect gift.</p>
+            <p n="2">2. The matter of this Petition;</p>
+            <p>
+               <hi>Grace, Love,</hi> and <hi>Communion.</hi>
+            </p>
+            <p>
+               <hi>The Grace of our Lord Jeſus Chriſt;</hi> or that kindneſs and bounty which flows from him, as the Fountain of Grace; conſidered as God: with that Grace which is derived from him, as Mediator betwixt God and Man, let this be with you; or I heartily wiſh, that from his Ful<g ref="char:EOLhyphen"/>neſs ye may receive Grace for Grace.</p>
+            <p>
+               <hi>The love of God be with you:</hi> That good will of Benevolence and Complacency, wherewith the Father embraces them that are in Chriſt, for his ſake.</p>
+            <p>
+               <hi>The Communion of the Holy Ghoſt:</hi> Or I earneſtly entreat, that all manner of gracious Communications may be granted to you from the bleſſed Spirit, to ſtrength<g ref="char:EOLhyphen"/>en, quicken, refreſh, and ſeal your Souls.</p>
+            <p>We ſhall only now conſider the firſt Head remarked, or the Object of St. <hi>Paul</hi>'s devout Requeſts.</p>
+            <p>Thus the Text is an eminent Proof of the <hi>bleſſed Trinity,</hi> all the Perſons being here diſtinctly named; the Father is cal<g ref="char:EOLhyphen"/>led
+<pb n="5" facs="tcp:65603:7"/>
+               <hi>God,</hi> the Son <hi>Lord,</hi> and the <hi>Spirit</hi> is mentioned by his Common Epithet, the <hi>Holy Ghoſt.</hi>
+            </p>
+            <p>Moreover, ſomething is here attributed to each of theſe Perſons.</p>
+            <p>
+               <hi>Love,</hi> to God the Father, as the Spring of his Munificence to his Creatures: Or, that which mov'd him to ſend his onely begotten Son into the World to ſave <hi>Be<g ref="char:EOLhyphen"/>lievers.</hi>
+            </p>
+            <p>
+               <hi>Grace</hi> is here aſcribed to the <hi>Lord Jeſus,</hi> as that which <hi>edg'd</hi> him on, to give his Life a Ranſom for many, and to die ſo freely for the <hi>Elect.</hi>
+            </p>
+            <p>We farther read of the <hi>Communion of the Holy Ghost;</hi> becauſe by the <hi>bleſſed Spi<g ref="char:EOLhyphen"/>rit,</hi> the Father and the Son do beſtow or convey their <hi>Love</hi> and <hi>Grace</hi> to all the <hi>Saints.</hi>
+            </p>
+            <p>Though all the Perſons in the <hi>glorious Trinity</hi> are equal in <hi>Eſſence, Majeſty, Glory,</hi> and <hi>Duration;</hi> yet from this Verſe we may remark, That there is</p>
+            <p>A difference in their Order of Subſiſt<g ref="char:EOLhyphen"/>ing; on which account the <hi>Father</hi> is be<g ref="char:EOLhyphen"/>fore the Son, and the <hi>Redeemer</hi> precedes the <hi>Holy Ghost.</hi>
+            </p>
+            <p>Thus <hi>God the Father</hi> (the firſt Perſon) has the foundation of Perſonal Subſiſtence
+<pb n="6" facs="tcp:65603:8"/>from himſelf; <hi>God the Son</hi> receives it from the <hi>Father,</hi> and <hi>God the Holy Ghost</hi> from both.</p>
+            <p>To intimate an Order in the <hi>Trinity</hi> therefore, perhaps we find, that the <hi>Son</hi> in ſome Texts of Scripture is mentioned be<g ref="char:EOLhyphen"/>fore the <hi>Father;</hi> ſo in the words read; ſometimes the <hi>Holy Ghost</hi> is nominated before the <hi>Father, Epheſ.</hi> 2.18. <hi>We have ac<g ref="char:EOLhyphen"/>ceſs by one Spirit unto the Father:</hi> Or he is ſpoken of before <hi>Jeſus Christ, Revel.</hi> 1.4. <hi>Grace be to you from the ſeven Spirits,</hi> i. e. from that <hi>Holy Ghost</hi> whoſe Gifts are va<g ref="char:EOLhyphen"/>rious, and from <hi>Jeſus Christ,</hi> v. 5.</p>
+            <p>But although on the account of Relati<g ref="char:EOLhyphen"/>on, or with regard to the Order of Subſiſt<g ref="char:EOLhyphen"/>ence, one of theſe inſinite Perſons is ſet be<g ref="char:EOLhyphen"/>fore another, yet we may not derogate the leaſt <hi>Punctilio</hi> from the Immenſity of ei<g ref="char:EOLhyphen"/>ther of them; any low Thoughts of this nature, would be an attempt to disfigure the beautiful Aſpect of the <hi>Trinity;</hi> or to diminiſh their adorable Perfections.</p>
+            <p>The Words being thus open'd, the con<g ref="char:EOLhyphen"/>cluſion hence may be:</p>
+            <p>Doctr. <hi>There are Three Perſons in the glo<g ref="char:EOLhyphen"/>rious Godhead.</hi>
+            </p>
+            <p>When we ſay, there are Three Perſons, Perſonality denotes a compleat Subſiſt<g ref="char:EOLhyphen"/>ence,
+<pb n="7" facs="tcp:65603:8"/>endow'd with Underſtanding; there<g ref="char:EOLhyphen"/>fore we retain the Term, as importing a moſt excellent kind of Being. Nor do the ſacred Oracles diſdain to attribute this Title of <hi>Perſon</hi> to the God of Glory, <hi>Heb.</hi> 1. v. 3.</p>
+            <p>Our Redeemer is ſtyl'd, <hi>The expreſs I<g ref="char:EOLhyphen"/>mage of the Father's Perſon.</hi>
+            </p>
+            <p>When we affirm there are <hi>Three Per<g ref="char:EOLhyphen"/>ſons</hi> in the <hi>Godhead,</hi> i. e. the <hi>Divine Eſſence</hi> may be conceiv'd by us as modiſied three ways.</p>
+            <p n="1">1. As the <hi>Fountain</hi> or <hi>Principle</hi> of the <hi>Deity:</hi> Thus it is the Firſt Perſon, or the Father, who is not the <hi>Cauſe,</hi> but the <hi>Prin<g ref="char:EOLhyphen"/>ciple</hi> of the <hi>Godhead.</hi> The beginning of a Thing is not neceſſarily its Cauſe, <hi>e. g.</hi> The firſt Point in a Line, is not the Cauſe thereof: Neither have the <hi>Son</hi> and the <hi>Holy Ghost</hi> any principle of Time, but of Order; no Commencement of Duration, but of Proceeding, or Origine.</p>
+            <p n="2">2. If we apprehend the <hi>Divine Nature</hi> as ſtreaming forth from the <hi>Father;</hi> then it is the <hi>Second glorious Perſon.</hi>
+            </p>
+            <p n="3">3. If we regard the <hi>Eſſence of God,</hi> as breathed forth by the <hi>Father</hi> and the <hi>Son;</hi> this we call the <hi>Holy Ghost.</hi>
+            </p>
+            <p>
+               <pb n="8" facs="tcp:65603:9"/>The Doctrine of the <hi>Trinity</hi> might be illuſtrated, if we conſider,</p>
+            <p>That in the <hi>Sun</hi> is Light, Heat, and Beam, yet theſe make up but one <hi>Sun.</hi>
+            </p>
+            <p>In the vegetative <hi>Soul,</hi> there is a triple <hi>Vertue, Moving, Separating,</hi> proper Mat<g ref="char:EOLhyphen"/>ter for Nouriſhment from what is unfit, and <hi>attractive,</hi> or a kind of analogical Appetite.</p>
+            <p>In the <hi>Senſitive Nature,</hi> there is a three<g ref="char:EOLhyphen"/>fold Operation, <hi>viz.</hi> Vitally active, ap<g ref="char:EOLhyphen"/>prehenſive, and appetitive.</p>
+            <p>In the <hi>rational Soul</hi> (though the Ver<g ref="char:EOLhyphen"/>tue be centrally one, as in the Vegetative and Senſitive) yet its working is various, in Activity, Underſtanding and Will.</p>
+            <p>In the <hi>new Creature</hi> there is an holy Power, Wiſdom, and Love.</p>
+            <p>And all theſe meet in one Man.</p>
+            <p>
+               <hi>Grotius</hi> is noted in his <hi>Catechiſm,</hi> to give us ſome Light herein: In his <hi>Que<g ref="char:EOLhyphen"/>ſtions</hi> and <hi>Anſwers</hi> following:
+<q>
+                  <l>Que ratio ſuadet tres ut credantur in uno?</l>
+                  <l>
+                     <hi>R.</hi> Diſtat a carente ſine, quod fines habet.</l>
+                  <l>Artificis nuſquamne ſui ſpectatur Imago?</l>
+                  <l>
+                     <hi>R.</hi> Sol, Lux, carorque tria ſunt, unum ta<g ref="char:EOLhyphen"/>men.</l>
+                  <l>
+                     <pb n="9" facs="tcp:65603:9"/>Nil hominum natura jubet nos tale tueri.</l>
+                  <l>
+                     <hi>R.</hi> Vigere, ſapere, velle; in uno ſunt tria.</l>
+               </q>
+            </p>
+            <p>
+               <hi>A Trinity in <g ref="char:V">Ʋ</g>nity is not then too hard to be conceived of us.</hi>
+            </p>
+            <p>But this Article of our Faith, touching the <hi>ever-bleſſed Trinity,</hi> may be prov'd by the <hi>Attestations</hi> of the <hi>Old Testament,</hi> by the <hi>Records</hi> of the <hi>Goſpel;</hi> and in that Reaſon cannot juſtly deny what is thus re<g ref="char:EOLhyphen"/>vealed.</p>
+            <p>The Declarations of the Old Teſta<g ref="char:EOLhyphen"/>ment do warrant our belief of this Do<g ref="char:EOLhyphen"/>ctrine.</p>
+            <p>Full evidence of a Plurality of Perſons in the <hi>Godhead,</hi> we have from <hi>Gen.</hi> 1.26. <hi>Let us make man in our image, after our likeneſs.</hi> God's not ſpeaking now as before; <hi>Let there be light,</hi> v. 3. <hi>Let the waters bring forth abundantly,</hi> v. 20. But the Lord's varying the phraſe, inſinuates that Man was the moſt perfect Work of God in the viſible World; and this Expreſſion (as well as other Texts) makes it plain, that Man had more Creators than one Perſon.</p>
+            <p>
+               <pb n="10" facs="tcp:65603:10"/>Other Scriptures confirm to us the <hi>
+                  <g ref="char:V">Ʋ</g>nity of the Godhead,</hi> and this clears a di<g ref="char:EOLhyphen"/>ſtinction of the Perſons.</p>
+            <p>Neither can the ſeeming Contradiction of more than One enjoying the Deity, be reconcil'd, but by acknowledging a Plu<g ref="char:EOLhyphen"/>rality of Perſons in the Unity of Eſſence.</p>
+            <p>God ſaid, <hi>Let us make Man in our I<g ref="char:EOLhyphen"/>mage.</hi> Here obſerve,</p>
+            <p n="1">1. It is ridiculous to pretend, that the Moſt High thus ſpake to the <hi>Angels;</hi> for as much as they to whom the Diſcourſe is directed, were Partners, or Companions in the wonderful Work of Creation; which Work exceeds any finite Power: Nor can the Creature be an Inſtrument in ſuch an Operation; becauſe Creation de<g ref="char:EOLhyphen"/>nies any duly prepared ſubject matter to work upon, being the making of Things out of nothing, or indiſpoſed Matter; alſo denying Time to work in, as producing in an inſtant: Now without Matter and Time, no Inſtrument can act.</p>
+            <p n="2">2. It is as groundleſs to ſuppoſe, that when God ſaid, <hi>Let us make Man,</hi> he ſpake
+<pb n="11" facs="tcp:65603:10"/>after the manner of earthly Princes, or Grandees; ſeeing ſuch a form of ſpeaking in the Plural Number, was no wiſe agree<g ref="char:EOLhyphen"/>able to the plaineſs uſed in the firſt Ages, or elder Times of the World; nor con<g ref="char:EOLhyphen"/>ſonant to the <hi>Hebrew</hi> ſtyle. The <hi>Iſralitiſh</hi> Kings ſpake of themſelves in the Singular Number, particularly <hi>David,</hi> 2 <hi>Sam.</hi> 3.28. <hi>I and my Kingdom are guiltleſs from the blood of</hi> Abner; Not we and our Empire: 1 <hi>Chron.</hi> 21.17. <hi>Is it not I that commanded the people to be numbred? Even I it is that have ſinned: Let thy hand, I pray thee, O Lord my God, be on me.</hi>
+            </p>
+            <p>
+               <hi>Me me inquam, in me convertito ferrum.</hi>
+            </p>
+            <p>In the ſame manner did the <hi>Eastern Monarchs</hi> iſſue forth their Proclamations, eſpecially <hi>Darius,</hi> Ezra 6.8. <hi>I make a De<g ref="char:EOLhyphen"/>cree, which ye ſhall do to the Elders of theſe</hi> Jews, <hi>for the building of this Houſe of God.</hi> So alſo, <hi>Ezra</hi> 7.21. <hi>I, even I</hi> Artaxerxes <hi>the King, do make a Decree.</hi>
+            </p>
+            <p>It is then a daring preſumption for any to intrude the Cuſtoms of the later Times, into the ancient Records of the Holy Scriptures.</p>
+            <p>Yea, the God of Glory ſpake of him<g ref="char:EOLhyphen"/>ſelf
+<pb n="12" facs="tcp:65603:11"/>ſingularly: Thus when he manifeſted his Reſolve to drown the World, <hi>Gen.</hi> 6.17. <hi>I, even I, do bring a flood of waters.</hi> Likewiſe when he diſplay'd his Glory, Power and Majeſty at the Publiſhing of the <hi>Law</hi> on Mount <hi>Sinai,</hi> Exod. 20.2. <hi>I am the Lord thy God.</hi> So the Prophet notes, Iſa. 42.6.8. <hi>I the Lord have called thee: I am the Lord, that is my Name; and my Glory will I not give to another; neither my Praiſe to graven Images.</hi> Wherefore that paſſage, <hi>Let us make Man after our likeneſs,</hi> ſuppoſes more than one Perſon to be con<g ref="char:EOLhyphen"/>cern'd in framing of <hi>Man.</hi>
+            </p>
+            <p>Nor is the Old Teſtament a ſtranger to the Trinity of Perſons; we have them all mentioned, <hi>Iſa.</hi> 63.7, 9, 10. Here is a diſcovery of God the Father, or <hi>Jehovah: I will mention the loving-kindneſs of the Lord, and the praiſes of the Lord.</hi> Notice is given us of Jeſus Chriſt, called here, <hi>the Angel of his preſence.</hi> Other Angels are in the preſence of God, but were not ſo from everlaſting, as Chriſt was: <hi>The Angel of his preſence ſaved them;</hi> viz. He who de<g ref="char:EOLhyphen"/>ſerved this Title, by way of Eminency, as being the ſame that appeared to <hi>Moſes</hi> in the burning Buſh, <hi>Exod.</hi> 3.2, 4. <hi>The Angel of the Lord appeared to him in a ſtame
+<pb n="13" facs="tcp:65603:11"/>of fire, out of the midſt of a buſh: and when the Lord ſaw that he turned aſide to ſee, God called to him out of the midſt of the buſh.</hi> The ſame Angel as conducted them in the Wil<g ref="char:EOLhyphen"/>derneſs, and ſpake to the <hi>Iſraelites</hi> from <hi>Si<g ref="char:EOLhyphen"/>nai, Act.</hi> 7.35.37, 68. The Angel of whom God himſelf teſtified, <hi>My Name is in him, Exod.</hi> 23.20, 21. Moreover in that fore<g ref="char:EOLhyphen"/>quoted Text, the Prophet adds, <hi>They vex<g ref="char:EOLhyphen"/>ed his holy Spirit.</hi> Here is an acknowledg<g ref="char:EOLhyphen"/>ment of the Third glorious Perſon, deno<g ref="char:EOLhyphen"/>minated his <hi>Holy Spirit. Him the Seed of</hi> Jacob <hi>grieved by their frequent murmurings in the Deſert;</hi> by only making the Nati<g ref="char:EOLhyphen"/>ons tributary, whom God commanded them to deſtroy; and by defying the warnings of the Prophets, even till the <hi>Babyloniſh</hi> Captivity.</p>
+            <p n="2">2. The New Teſtament ratifies this Doctrine by ſufficient Teſtimonies.</p>
+            <p n="1">1. At our Saviour's Baptiſm, the pre<g ref="char:EOLhyphen"/>ſent Truth was confirmed, <hi>Matth.</hi> 3.16, 17. <hi>Jeſus when he was baptized, went up ſtraitway out of the water; and lo, the Hea<g ref="char:EOLhyphen"/>vens were opened, and he ſaw the Spirit of God deſcending like a Dove, and lighting upon him; and lo, a voice from Heaven, ſaying, This is my beloved Son, in whom I am well pleaſed.</hi>
+            </p>
+            <p>
+               <pb n="14" facs="tcp:65603:12"/>Now the ever-bleſſed Trinity clearly manifeſted themſelves;</p>
+            <p>
+               <hi>Voce Pater, Natus Corpore, Flamen ave.</hi>
+            </p>
+            <p>He that ſpake from Heaven was the Father; He who was baptized in <hi>Jordan</hi> was the Son; He that came down in the form of a Dove, is ſtyled the Holy Spirit. The Father at this time made himſelf known, by an audible Voice: <hi>Jeſus Chriſt</hi> the Eſſential Word in Heaven, was now born Witneſs to, by a Word from Hea<g ref="char:EOLhyphen"/>ven; and God the Holy Ghoſt now de<g ref="char:EOLhyphen"/>ſcending on him in the ſhape of a Dove.</p>
+            <p>Thus theſe Three glorious Perſons revealed themſelves: <hi>Pater auditur in voce; Filius manifeſtatur in homine; Spiritus ſan<g ref="char:EOLhyphen"/>ctus dignoſcitur in Columba,</hi> Aug.</p>
+            <p>Three ſeveral Actions alſo at this jun<g ref="char:EOLhyphen"/>cture, ſerve to eſtabliſh our Faith, as to this Article of our Creed: For one pro<g ref="char:EOLhyphen"/>claims by a Voice from Heaven, <hi>This is my beloved Son in whom I am well pleaſed.</hi> This was the Declaration of God the Father; ſince it could not be the Speech of Chriſt, for then he would be Son to himſelf. Nor can it be aſcribed to the Ho<g ref="char:EOLhyphen"/>ly Ghoſt, for then Jeſus ſhould be the Son of the Spirit; but thus he was never ſtyled in the Scriptures.</p>
+            <p>
+               <pb n="15" facs="tcp:65603:12"/>The ſecond Perſon alſo was now ma<g ref="char:EOLhyphen"/>nifeſted, as inveſted with the Humane Nature, <hi>baptized;</hi> and moreover after that, <hi>he prayed,</hi> Luke 3.21, 22.</p>
+            <p>The third Perſon is now ſignaliz'd as coming down in the reſemblance of a Dove, and reſted upon Jeſus Chriſt, <hi>John</hi> 1.29, &amp;c.</p>
+            <p>No wonder now that the Primitive Chriſtians, commonly ſaid to any that doubted of the Trinity; <hi>Abi ad Jordanem &amp; videbis,</hi> Go to <hi>Jordan,</hi> and there you may receive full ſatisfaction.</p>
+            <p n="2">2. The Inſtitution of <hi>Baptiſm,</hi> may ſettle us in the belief of this Truth. <hi>Go, teach all Nations, baptizing them in the Name of the Father, and of the Son, and of the Holy Ghost,</hi> Matth. 28.19. The bleſſed Trinity is written in legible Characters on this Ordinance.</p>
+            <p>Here is a Commiſſion, or ſolemn Com<g ref="char:EOLhyphen"/>mand for <hi>Baptiſm,</hi> and the form of Ad<g ref="char:EOLhyphen"/>miniſtring this <hi>Sacrament</hi> in all Ages, is now ſet down; and as to the preſent pur<g ref="char:EOLhyphen"/>poſe, we might remark,</p>
+            <p n="1">1. The <hi>Apoſtles</hi> are ordered to <hi>Baptize in the Name of the Father, of the Son, and of the Holy Ghoſt. Non in nominibus, ſed no<g ref="char:EOLhyphen"/>mine, ut trium unitas ſignificetur.</hi> Conſider
+<pb n="16" facs="tcp:65603:13"/>them Perſonally, then they have Three Characters here mentioned, <hi>Father, Son,</hi> and <hi>Holy Ghoſt;</hi> but Eſſentially, they all come under one Name.</p>
+            <p>Further, if we expound this Clauſe in the Name, <hi>i. e.</hi> Calling on the <hi>Name,</hi> act<g ref="char:EOLhyphen"/>ing by the <hi>Warrant,</hi> or dedicating to the <hi>Service</hi> of theſe <hi>Three:</hi> Hence we muſt either eſtabliſh three Gods, or confeſs three Perſons in the <hi>Godhead.</hi> But though we grant <hi>Deum trinum,</hi> we abhor <hi>Deum triplicem. In</hi> the <hi>Name:</hi> This <hi>one Name</hi> is expreſſed only of one <hi>Deity;</hi> nor can any be the <hi>Appointer</hi> of <hi>Ordinances</hi> for the <hi>Church,</hi> the <hi>Object</hi> of our <hi>Prayers,</hi> or be <hi>ſerv'd</hi> and <hi>adored,</hi> but <hi>God</hi> alone, <hi>Matth.</hi> 4.10. <hi>Thou ſhalt worſhip the Lord thy God, and him only ſhalt thou ſerve.</hi>
+            </p>
+            <p n="2">2. The Twelve <hi>Diſciples</hi> were to <hi>Baptize in the Name of the Father, Son and Holy Ghoſt;</hi> importing an exact, Parity in theſe Three Perſons: There<g ref="char:EOLhyphen"/>fore it is not ſaid, by the <hi>Son,</hi> or by the <hi>Spirit;</hi> as if theſe were unequal in Nature, Glory, or Dignity to the Father.</p>
+            <p n="3">3. An Article is prefixed thrice, or ad<g ref="char:EOLhyphen"/>ded to every one of them; <hi>Baptizing them in the Name <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, of the Father,</hi> whoſe Voice you heard from Heaven at
+<pb n="17" facs="tcp:65603:13"/>my <hi>Baptiſm</hi> in <hi>Jordan;</hi> and when Tranſ<g ref="char:EOLhyphen"/>figur'd on the Mount, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, of the <hi>Son,</hi> whom you now behold manifeſted in the fleſh; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: Of the <hi>Holy Ghoſt</hi> whom you formerly ſaw deſcending and remaining on me like a Dove. The repeating of the Article encreaſes the Emphaſis.</p>
+            <p n="3">3. That Paſſage of the <hi>Apostle</hi> may ſtrengthen our Faith in this Point, <hi>Rom.</hi> 11.36. <hi>Of him, and through him, and to him are all things; to whom be glory for ever.</hi> Here are three Particles, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>of, through, to;</hi> not only to ſignifie the many Benefits, which Creatures (eſpecially Man<g ref="char:EOLhyphen"/>kind) do receive from God; but alſo to inſinuate the Trinity of the Perſons in one God. <hi>Of him,</hi> denotes the Father, <hi>through him,</hi> diſcovers the Son; as we find it in<g ref="char:EOLhyphen"/>terpreted, 1 <hi>Cor.</hi> 8.6. <hi>To us is one God the Father, of whom are all things; and one Lord Jeſus Christ, by whom are all things: To Him,</hi> repreſents the <hi>Holy Ghost.</hi> The Fa<g ref="char:EOLhyphen"/>ther is a Principle without a beginning; the Son is a middle Perſon through whom Operation received from the Father, is tranſmitted to the Holy Spirit; and the Holy Ghoſt is as it were the End in the Trinity, from whom there is no farther
+<pb n="18" facs="tcp:65603:14"/>progreſs to any other Perſon.</p>
+            <p n="4">4. That Declaration carries in it con<g ref="char:EOLhyphen"/>vincing evidence of this Doctrine, 1 <hi>John</hi> 5.7. <hi>There are three that bear record in Hea<g ref="char:EOLhyphen"/>ven, the Father, the Word, and the Holy Ghoſt, and theſe three are one.</hi> Here ob<g ref="char:EOLhyphen"/>ſerve,</p>
+            <p n="1">1. Three recorded Witneſſes, the <hi>Fa<g ref="char:EOLhyphen"/>ther, Son,</hi> and <hi>Holy Ghoſt;</hi> Neceſſarily im<g ref="char:EOLhyphen"/>plying Three Perſons: The matter of their Teſtimony is, <hi>That Jeſus is the Son of God,</hi> v. 1.5. <hi>And the Author of eternal life to Believers,</hi> v. 11.</p>
+            <p n="2">2. The <hi>Word</hi> and the <hi>Holy Ghoſt</hi> are joyned as Atteſtators with the <hi>Father.</hi> This were an Honour too great for a meer Creature. Moreover, Chriſt here ſtyled the <hi>Word,</hi> has the glorious Denomination of the <hi>true God,</hi> v. 20. and the <hi>Holy Ghoſt</hi> here mentioned, is called <hi>Truth it ſelf,</hi> Verſe 6.</p>
+            <p n="3">3. Each of theſe Witneſſes is <hi>God:</hi> One is not the other, yet they are not many Gods; they muſt therefore be three di<g ref="char:EOLhyphen"/>ſtinct Perſons, ſubſiſting in one divine Eſ<g ref="char:EOLhyphen"/>ſence: Theſe Three are One, <hi>i. e,</hi> agree<g ref="char:EOLhyphen"/>ing in their Teſtimony, and united in their Nature.</p>
+            <p>
+               <pb n="19" facs="tcp:65603:14"/>The Father, Son, and Holy Ghoſt en<g ref="char:EOLhyphen"/>joy the ſame Subſtance in an inſeparable equality. We have but one God, becauſe there is but one Godhead; and the Elect are related to One, whom we alſo be<g ref="char:EOLhyphen"/>lieve to be Three. One is not leſs God than the other; nor are they ſeparated in Will, or divided in Power: But there is one undivided Deity in ſeveral Perſons. As if there were three <hi>Suns</hi> co<g ref="char:EOLhyphen"/>hering, there would be one Commixture of Light.</p>
+            <p>Jeſus Chriſt did not ſay, I am the Fa<g ref="char:EOLhyphen"/>ther, but I am <hi>in the Father:</hi> Nor did he aſſert, <hi>I and the Father am one,</hi> but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>are one,</hi> John 10.30. That we might not ex<g ref="char:EOLhyphen"/>clude the Son from the Godhead, nor con<g ref="char:EOLhyphen"/>found him with the Father. <hi>I and my Fa<g ref="char:EOLhyphen"/>ther are one:</hi> One in the Dignity of the Deity, becauſe God begat God: One in Kingdom, both reigning over the ſame Subjects; One in Will and Operation.</p>
+            <p>
+               <hi>Cyril.</hi>
+               <q>We acknowledge one God the Father, of himſelf, and unbegotten: One Son, begotten of the Father; and one Spirit, having his Subſiſtence of God, of the ſame Nature and Glory; the ſame in all things, except this, That he
+<pb n="20" facs="tcp:65603:15"/>is not unbegotten, as the Father; nor begotten as the Son.</q>
+            </p>
+            <p>He that begat, only knows him that is begotten; and none knows the Father, but the Son: Believe that God had a Son; but how, do not curiouſly enquire: It ſuffices to underſtand, that God had only one Son naturally begotten; who did not begin to be, when born in <hi>Bethlehem,</hi> but was before the World, <hi>Mic.</hi> 5.2. <hi>Out of thee ſhall he come forth, that is to be Ruler in Iſrael; whoſe goings forth have been of old from everlasting.</hi>
+            </p>
+            <p>More is not revealed, nor is the Ge<g ref="char:EOLhyphen"/>neration of the Son, by the Father deſcri<g ref="char:EOLhyphen"/>bed. Why ſhould any pragmatically ſearch into what is not mention'd? We know not all that is written, and do we curi<g ref="char:EOLhyphen"/>ouſly pry into what is not recorded?</p>
+            <p>
+               <hi>Neſcire velle quae magiſter maximus non do<g ref="char:EOLhyphen"/>cuit, erudita est inſcientia.</hi> It's no ſhame to be ignorant of what Chriſt has not diſco<g ref="char:EOLhyphen"/>vered; or to expect clearer Revelations in another World: Where Saints ſhall know more by the pure illumination of the glorious Trinity, and be more mo<g ref="char:EOLhyphen"/>deſt, adoring then, the incomprehenſible God; <hi>Father, Son,</hi> and <hi>Holy Ghoſt.</hi>
+            </p>
+            <p n="3">3. Natural Reaſon may not oppoſe
+<pb n="21" facs="tcp:65603:15"/>this Truth, ſo confirmed in Divine Reve<g ref="char:EOLhyphen"/>lations. <hi>Aquinas</hi> indeed notes,
+<q>That he that endeavours to prove the Do<g ref="char:EOLhyphen"/>ctrine of the <hi>Trinity</hi> by the <hi>Light of Na<g ref="char:EOLhyphen"/>ture,</hi> derogates from the <hi>Faith:</hi> 1. As to the Dignity of its <hi>Articles,</hi> being inviſible <hi>Objects,</hi> exceeding Humane Reaſon, <hi>Heb.</hi> 12.1. <hi>Faith is the ſubſtance of things not ſeen.</hi>
+               </q>
+            </p>
+            <p n="2">2. As to the likelihood of drawing others to the Faith; for when any al<g ref="char:EOLhyphen"/>ledges Arguments which are not <hi>cogent,</hi> he becomes the ſcorn of Infidels; who imagin that we do, (leaning upon ſuch Reaſons) ſubſcribe the Doctrines on theſe accounts.</p>
+            <p>However, our Minds depending on the Divine Authority of the Sacred Revela<g ref="char:EOLhyphen"/>tions, may thereby be fully ſatisfied in this Truth.</p>
+            <p>Arguments from Senſe may not be in<g ref="char:EOLhyphen"/>ſiſted on, if contrary to Reaſon, <hi>e. g.</hi> Though ſome Stars ſeem to us like Span<g ref="char:EOLhyphen"/>gles, yet Reaſon corrects ſuch an Opinion, by urging their vaſt diſtance from us: This neceſſarily infers them to be great Bodies, elſe they would be wholly invi<g ref="char:EOLhyphen"/>ſible. The Sun appears greater in the Morning, or towards its ſetting, than at
+<pb n="22" facs="tcp:65603:16"/>Noon; but the ground hereof is the thick<g ref="char:EOLhyphen"/>neſs of the Air.</p>
+            <p>Now as in theſe Caſes, the Dictates of Reaſon do preponderate to the Suggeſti<g ref="char:EOLhyphen"/>ons of Senſe: So in the Myſteries of the <hi>Goſpel,</hi> we muſt prefer the Declarations of <hi>Faith,</hi> above the Sentiments of <hi>Reaſon;</hi> not preſently imagining, that if a Truth tranſcends our Capacity, it is contrary to our Underſtanding. Uſe the <hi>Maxims</hi> of <hi>Philoſophy</hi> in ſubſervience to <hi>Divinity;</hi> keep the old Rules within their proper bounds; never think them to be of equal Autho<g ref="char:EOLhyphen"/>rity with the <hi>Sacred Oracles. Ex nihilo nihil ſit; a privatione ad habitum non datur regreſſus;</hi> Limit theſe Concluſions to a fi<g ref="char:EOLhyphen"/>nite Power. Admit the interpoſings of that <hi>Arm</hi> which ſubdueth all things to its ſelf; then the Creation or Reſurrection will not be thought incredible; neither wilt thou be amazed, that the ſame nu<g ref="char:EOLhyphen"/>merical Eſſence is in three diſtinct Per<g ref="char:EOLhyphen"/>ſons.</p>
+            <p>
+               <hi>By way of <g ref="char:V">Ʋ</g>ſe.</hi>
+            </p>
+            <p n="1">1. How glorious a God do we ſerve! One who is Infinite and Incomprehenſible; <hi>His Ways are unſearchable, and his Works
+<pb n="23" facs="tcp:65603:16"/>paſt finding out:</hi> Far leſs can his Nature, Eſſence, Subſiſtence, receive any bounds, or be ſearched out unto perfection. Earth<g ref="char:EOLhyphen"/>ly Diadems only incircle the Heads of Princes: God's Laws, and Men's funda<g ref="char:EOLhyphen"/>mental Conſtitutions, ſhould keep their Feet within due limits; ſeeing theſe Po<g ref="char:EOLhyphen"/>tentates are Creatures, though of the faireſt Character; and are finite Beings, though they are highly advanced: But the God of <hi>Glory</hi> is under no Obligations or Articles, nor can have any Lines drawn round about him, by Men or Angels. Ar<g ref="char:EOLhyphen"/>bitrary humane Government is very un<g ref="char:EOLhyphen"/>ſafe; but the Moſt High acteth purely by his own Will, as being Commenſurate with his Council: He needs no Rule, and his Pleaſure is the Supream Reaſon.</p>
+            <p>
+               <hi>Sic volo, ſic jubeo, ſtat pro ratione voluntas.</hi>
+            </p>
+            <p n="2">2. See the neceſſity of ſtudying ſome<g ref="char:EOLhyphen"/>thing of this Doctrine: Without a know<g ref="char:EOLhyphen"/>ledge of this Truth, we cannot worſhip God aright. The <hi>Father, Son,</hi> and <hi>Holy Ghoſt,</hi> are the Object of <hi>Divine Faith,</hi> and of <hi>Goſpel Adoration:</hi> Neither may we di<g ref="char:EOLhyphen"/>rect our Addreſſes to either of theſe <hi>glo<g ref="char:EOLhyphen"/>rious Perſons,</hi> but as united to one ano<g ref="char:EOLhyphen"/>ther:
+<pb n="24" facs="tcp:65603:17"/>We confeſs there is but <hi>one God,</hi> yet muſt be acquainted with Him as he is in Chriſt; elſe in Prayer we can have no confidence, <hi>Heb.</hi> 10.19, 20, 21, 22.</p>
+            <p>Some knowledge of the <hi>Trinity</hi> is ne<g ref="char:EOLhyphen"/>ceſſary to Salvation, and all baptized Per<g ref="char:EOLhyphen"/>ſons profeſs their belief in the <hi>Father, Son,</hi> and <hi>Holy Ghost;</hi> which Declaration im<g ref="char:EOLhyphen"/>plies,</p>
+            <p>An acknowledgment, that the <hi>Father, Son,</hi> and <hi>Holy Spirit,</hi> are one true Coeter<g ref="char:EOLhyphen"/>nal <hi>God,</hi> one in Eſſence, though three in an incom prehenſible manner.</p>
+            <p>A Confeſſion that <hi>Jeſus</hi> is <hi>God-man,</hi> the Saviour of the World.</p>
+            <p>With an hearty yielding up our ſelves to that <hi>God,</hi> who in his Covenant reveals and offers himſelf under the Relation of our <hi>God;</hi> as an appeaſed <hi>Father,</hi> reconci<g ref="char:EOLhyphen"/>ling <hi>Redeemer,</hi> and ſanctifying <hi>Spirit.</hi>
+            </p>
+            <p>Or, as St. <hi>Aug.</hi> explains it;
+<q>We be<g ref="char:EOLhyphen"/>lieve <hi>Father, Son,</hi> and <hi>Holy Ghost</hi> to be <hi>one God,</hi> the <hi>univerſal Creatour</hi> and <hi>Sove<g ref="char:EOLhyphen"/>reign:</hi> Alſo, <hi>that the Father</hi> is not the <hi>Son,</hi> nor the <hi>bleſſed Spirit</hi> either the <hi>Father</hi> or the <hi>Son: Sed Trinitatem relatarum ad in<g ref="char:EOLhyphen"/>vicem Perſonarum, unitatem aequalis eſſen<g ref="char:EOLhyphen"/>tiae;</hi> A Trinity of Perſons related to
+<pb n="25" facs="tcp:65603:17"/>one another, equally united in the ſame Nature.</q>
+            </p>
+            <p n="3">3. Bleſs God for revealing this Myſte<g ref="char:EOLhyphen"/>ry, it not being diſcernible by the Light of Nature. The <hi>Pagan Philoſophers</hi> had no true Notions of God, as the Author, Object Matter, or Way to Eternal Life; nor any right Apprehenſions of the <hi>bleſſed Trinity:</hi> This glorious Article of <hi>
+                  <g ref="char:V">Ʋ</g>nity in Trinity,</hi> was hid from them: The wi<g ref="char:EOLhyphen"/>ſer of the <hi>Heathen</hi> had ſome dark and im<g ref="char:EOLhyphen"/>perfect Traditions concerning this Truth; the great <hi>Eaſtern Maxim</hi> which <hi>Pythago<g ref="char:EOLhyphen"/>ras</hi> brought from thence into <hi>Greece,</hi> touching <hi>God,</hi> that he was <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>One and many,</hi> is conceiv'd to be a Notion borrow'd from the <hi>Jews.</hi>
+            </p>
+            <p>The <hi>Platoniſts</hi> had ſome Sentiments of the Three Perſons, whom they called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a <hi>Trinity:</hi> The firſt they named <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: <hi>Self-being, the Good, the Father.</hi> The Second Perſon they ſtyled, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: the <hi>Mind,</hi> the <hi>Word,</hi> the <hi>Begotten,</hi> the <hi>Framer,</hi> The Third they entituled, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: The <hi>Soul of the World.</hi> Theſe dim No<g ref="char:EOLhyphen"/>tices of a <hi>Trinity</hi> were perhaps derived from the <hi>Jews</hi> to theſe <hi>Philoſophers,</hi> by the <hi>Phaenicians</hi> or <hi>Egyptians;</hi> but none of the
+<pb n="26" facs="tcp:65603:18"/>
+               <hi>Heathen</hi> had a true ſound Apprehenſion of the <hi>Trinity:</hi> Their Conceptions were mixt with many Errours, they never attain'd to a knowledge of the Eternal Production of the <hi>Divine Word</hi>
+            </p>
+            <p>One Verſe of the <hi>Evangelist</hi> is uncon<g ref="char:EOLhyphen"/>ceivably more clear than all their Wri<g ref="char:EOLhyphen"/>tings, <hi>John</hi> 1.1. <hi>In the beginning was the Word, and the Word was with God, and the Word was God.</hi>
+            </p>
+            <p>By Natural Light we cannot fully un<g ref="char:EOLhyphen"/>derſtand what relates to <hi>Religious Worſhip;</hi> far leſs can we hereby diſtinctly appre<g ref="char:EOLhyphen"/>hend the Eſſence, Nature, and Subſiſtence of the Moſt High. The dim Light of Na<g ref="char:EOLhyphen"/>ture could not have taught us, that the <hi>Tree of Life</hi> ſhould be a <hi>Sacrament</hi> to <hi>A<g ref="char:EOLhyphen"/>dam,</hi> when in <hi>Paradiſe:</hi> Neither did this inſtruct the <hi>Jewiſh Church,</hi> what Crea<g ref="char:EOLhyphen"/>tures were Ceremonially Clean or impure; nor did Natural Reaſon acquaint them, that the <hi>Prieſt hood</hi> ſhould ſettle in the Fa<g ref="char:EOLhyphen"/>mily of <hi>Levi,</hi> and not in another <hi>Tribe.</hi>
+            </p>
+            <p>The Light of Nature doth not inform us in all Things, reſpecting the <hi>Moral Law;</hi> there were ſecret Irregularities which St. <hi>Paul</hi> did not perceive, when a <hi>Pha<g ref="char:EOLhyphen"/>riſee,</hi> though by his Education he was very expert in the Letter of the <hi>Law, Rom.</hi> 7.7.
+<pb n="27" facs="tcp:65603:18"/>
+               <hi>I had not known Luſt, except the Law had ſaid, Thou ſhalt not covet.</hi> The Light of Nature is much weaken'd by the Fall; its become faint and miſerably defective, and is an imperfect Guide in Moral Du<g ref="char:EOLhyphen"/>ties. To cry up the <hi>Law written in our hearts,</hi> is a diſparaging of the <hi>Law</hi> re<g ref="char:EOLhyphen"/>corded in the <hi>holy Scriptures:</hi> It is the ſet<g ref="char:EOLhyphen"/>ting up of an expiring Snuff in the Socket; yet at the ſame time to reject the Sun's Meridian brightneſs. The Law of Nature, ſince, <hi>Adam</hi>'s Apoſtacy is ſo blot<g ref="char:EOLhyphen"/>ted, as that it doth not detect the ſmal<g ref="char:EOLhyphen"/>leſt part of the Corruption of the Heart: How then ſhould it reveal <hi>God</hi> unto us? The Doctrin of the <hi>Goſpel</hi> is doubtleſs a grand Myſtery, but what Truth is a greater ſecret, than the <hi>Article of the Tri<g ref="char:EOLhyphen"/>nity?</hi> No Man can comprehend it, and <hi>An<g ref="char:EOLhyphen"/>gels</hi> above Adore it. Would it then de<g ref="char:EOLhyphen"/>ſerve the Character of a Myſtery, if the dim Light of an unrenewed Conſcience, or the Conduct of Nature, could make it manifeſt?</p>
+            <p n="4">4. Labour to apprehend a little the difference betwixt <hi>Eſſence</hi> and <hi>Perſon,</hi> in the <hi>holy Trinity. Eſſence</hi> is a <hi>Nature</hi> not ex<g ref="char:EOLhyphen"/>iſting before the <hi>Perſons,</hi> or without them; common to them, and the ſame in them:
+<pb n="28" facs="tcp:65603:19"/>Or it is the very <hi>Divinity</hi> which is indivi<g ref="char:EOLhyphen"/>dually and wholly in each Perſon. Hence the Eſſential Properties belonging to the <hi>Father, Son,</hi> and <hi>Holy Ghoſt,</hi> (as <hi>Wiſdom, Power, Holineſs, Juſtice, Goodneſs, Eternity.</hi>) are one and the ſame numerically.</p>
+            <p>A Perſon is a Subſiſtence in the <hi>Divine Nature,</hi> which though related to others, yet is diſtinguiſh'd from them by an in<g ref="char:EOLhyphen"/>communicable Property: So we conceive the <hi>Son</hi> asbegotten, and the <hi>Holy Ghost as</hi> proceeding from the <hi>Father</hi> and the <hi>Son.</hi>
+            </p>
+            <p>Though theſe Three glorious Perſons are diſtinct, yet they are not ſeparated; becauſe the <hi>Divine Nature</hi> is <hi>Infinite,</hi> not capable of being divided into parts; ex<g ref="char:EOLhyphen"/>iſting wholly in each Perſon: Whereas the Nature of Men or Angels, is not only in each individual, but partly in one, and equally in another.</p>
+            <p n="5">5. Obſerve a double diſtinction, (not diverſity) in the <hi>glorious Perſons</hi> of the <hi>Trinity.</hi>
+            </p>
+            <p n="1">1. Outward, taken from the external Works of <hi>God, e. g.</hi> The <hi>Father</hi> ſent the <hi>Son,</hi> into the World; the <hi>Son</hi> being ſent, became the <hi>Redeemer,</hi> and the <hi>bleſſed Spirit</hi> is the <hi>Sanctifier:</hi> Tho one and the ſame <hi>God</hi> effecteth all theſe Things; the Acti<g ref="char:EOLhyphen"/>ons
+<pb n="29" facs="tcp:65603:19"/>of the <hi>Trinity</hi> which are terminated on the Creature, being undivided. <hi>Greg. Naz.</hi> expreſſes this: <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: <hi>I no ſooner con<g ref="char:EOLhyphen"/>ceive of One, but the glorious Trinity preſent themſelves to my Mind in a dazling Splendor: Neither can I apprehend a Trinity of Perſons, but immediately my Thoughts center in the <g ref="char:V">Ʋ</g>nity of the Godhead.</hi>
+            </p>
+            <p n="2">2. Inward, cauſed by their intrinſick Proprieties, or Operations. The noble Acts performed by <hi>God,</hi> without any Creature, are peculiar to one Perſon of the <hi>Trinity: Opera Trinitatis ad intra ſunt diviſa.</hi> For inſtance,</p>
+            <p>The Propriety of the <hi>Father</hi> is this, That He, exiſting from Eternity, neither begotten, nor made, yet did beget an Eternal <hi>Son,</hi> of the ſame Subſtance with himſelf.</p>
+            <p>The Propriety of the <hi>Holy Ghoſt</hi> is this, That being neither created nor begotten, yet he eternally and inſeparably Proceed<g ref="char:EOLhyphen"/>eth from the <hi>Father</hi> and the <hi>Son.</hi>
+            </p>
+            <p>The peculiarity of the <hi>Word</hi> conſiſts herein, That although he were not form<g ref="char:EOLhyphen"/>ed, or made, yet He from Everlaſting
+<pb n="30" facs="tcp:65603:20"/>was begotten from the <hi>Father,</hi> exiſting <hi>in</hi> and <hi>of</hi> himſelf, as <hi>God;</hi> but from the <hi>Father,</hi> conſidered as a <hi>Son.</hi> As Light is begotten by the Sun in the Firmament, ſo <hi>Chriſt</hi> is from the <hi>Father,</hi> another <hi>Perſon,</hi> or the <hi>Second</hi> in the Order of the <hi>Trinity,</hi> but <hi>one</hi> and <hi>the ſame</hi> with his <hi>Father,</hi> as <hi>God,</hi> On which account <hi>Naz.</hi> ſpeaks, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: <hi>A Reverential Silence is more becoming us, than over-free Diſcourfes of the Birth of a God; it is ſufficient to underſtand, that the Redeemer is the only begotten Son of God.</hi>
+            </p>
+            <p>The <hi>Lord Jeſus</hi> conſidered abſolutely, is <hi>Jehovah,</hi> ſubſiſting of himſelf; but Re<g ref="char:EOLhyphen"/>latively, the <hi>Father</hi> may be ſtyled his <hi>Prin<g ref="char:EOLhyphen"/>ciple;</hi> therefore our <hi>Saviour</hi> is ſaid, <hi>John</hi> 3.35. <hi>To receive all things from his Father.</hi> Hence the <hi>School-men</hi> ſay, <hi>The Son is by him<g ref="char:EOLhyphen"/>ſelf, not from himſelf.</hi> St. <hi>Hilary</hi> notes, <hi>Data a Patre non infirmant Divinitatem Christi, ſed affirmant:</hi> His <hi>Father's</hi> Grant doth not leſſen his <hi>Divine Excellency.</hi> And St. <hi>Aug.</hi> to this purpoſe declares, <hi>Chriſtus ad ſe Deus dicitur, ad Patrem Filius dicitur:</hi> In himſelf he has the <hi>Character</hi> of <hi>God;</hi> but with regard to the <hi>Father,</hi> is ſtyled <hi>his Son.</hi>
+            </p>
+            <p>
+               <pb n="31" facs="tcp:65603:20"/>This internal Difference between the <hi>three Perſons,</hi> is not Eſſentially, as betwixt the Creatures, which have all their pro<g ref="char:EOLhyphen"/>per and determinate <hi>Eſſence:</hi> but one and the ſame <hi>Nature</hi> is in the <hi>Father,</hi> in the <hi>Son,</hi> and in the <hi>Holy Ghoſt;</hi> the whole whereof the <hi>Father</hi> Communicates to the <hi>Son,</hi> and both <hi>Father</hi> and <hi>Son</hi> do the like to the <hi>Holy Spirit.</hi>
+            </p>
+            <p>It is not a meer conceived Difference; <hi>Father, Son,</hi> and <hi>Holy Ghost,</hi> are not bare Thoughts or Words alone.</p>
+            <p>Nor reſpective, as the ſame Man in different accounts, may be a <hi>Father</hi> and a <hi>Son.</hi> But this Diſtinction is real, tho In<g ref="char:EOLhyphen"/>comprehenſible, either <hi>Perſon</hi> having his peculiar deſcription, with an incommu<g ref="char:EOLhyphen"/>nicable Property of Subſiſtence, and va<g ref="char:EOLhyphen"/>ries from another not in <hi>Eſſenee, ſed <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, in the manner of ſubſisting.</hi>
+            </p>
+            <p n="6">6. Take heed of denying the <hi>Trinity:</hi> To diſown this <hi>Article,</hi> is of all Opinions <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: A moſt deſpe<g ref="char:EOLhyphen"/>rate Tenent, ſtriking at the Root of all <hi>Religion.</hi>
+            </p>
+            <p>
+               <hi>Hereſie</hi> is Smoak ariſing out of the <hi>bot<g ref="char:EOLhyphen"/>tomleſs Pit,</hi> and is commonly vented by ſome <hi>Star</hi> that fell from Heaven.</p>
+            <p>
+               <pb n="32" facs="tcp:65603:21"/>When an Eminent Man in the Church Apoſtatizes from the <hi>Faith,</hi> the <hi>Key</hi> of the <hi>Infernal Pit</hi> is then in Judgment given to him. <hi>Satan</hi> cannot utter ſuch Blaſphemies by himſelf, but may by his Inſtruments. Such therefore making a Defection from the Truth, are given over to the efficacy of Deceit, venting the Doctrine of Hell, and publiſhing the Depths of <hi>Satan, Rev.</hi> 8.10, 11. <hi>Pelagius</hi> perhaps was this <hi>Eccle<g ref="char:EOLhyphen"/>ſiaſtical Star,</hi> who falling from his Pro<g ref="char:EOLhyphen"/>feſſion, poyſon'd and ruin'd many Souls, with his corrupt Opinions. The <hi>Devil</hi> loves to Roar like a Lion, or to raiſe Per<g ref="char:EOLhyphen"/>ſecution againſt the Church: But if this be not feaſible, he caſts out a Flood of Errour to drown the Truth, or to dark<g ref="char:EOLhyphen"/>en Spiritual Light.</p>
+            <p>Here it may be proper, to hear what <hi>Arius</hi> objected againſt this Doctrine:</p>
+            <p>
+               <q>If there be Three Perſons in the <hi>God<g ref="char:EOLhyphen"/>head,</hi> they are ſomething or nothing: If nothing, there can be no ground of Diſtinction: <hi>Nam non entis nullae ſunt af<g ref="char:EOLhyphen"/>fectiones, nulla praedicata.</hi> If ſomething, then there was ſomewhat from Eter<g ref="char:EOLhyphen"/>nity which was not God: If they are
+<pb n="33" facs="tcp:65603:21"/>Finite, then ſomething in <hi>God</hi> is limit<g ref="char:EOLhyphen"/>ed: If Infinite, then there are <hi>Three Infinites,</hi> which cannot be in <hi>one God.</hi>
+               </q>
+            </p>
+            <p>
+               <hi>Anſ.</hi> 1. The <hi>Scriptures</hi> poſitively Aſſert, <hi>There is but one God,</hi> 1 Cor. 8.4. Yet the <hi>Sacred Oracles</hi> mention the <hi>Father, Son,</hi> and <hi>Holy Ghost,</hi> affirming them to be <hi>Three;</hi> therefore they are diſtinguiſh'd from one another, 1 <hi>John</hi> 5.7. To all theſe the <hi>Godhead</hi> is attributed with the <hi>Eſſential Divine Properties.</hi> We read of <hi>God the Father,</hi> 1 Cor. 8.6. the ſame <hi>Word who was Incarnate, is God,</hi> John 1.1. The <hi>Holy Spirit</hi> he dwells in the Hearts of the Faithful all over the World; therefore he is <hi>Omnipreſent:</hi> He changes the Heart, and is thereby <hi>Almighty:</hi> He ſupplies with <hi>Influences</hi> and <hi>Graces</hi> daily: He teach<g ref="char:EOLhyphen"/>eth them to <hi>Pray,</hi> and helps their <hi>Infirmi<g ref="char:EOLhyphen"/>ties;</hi> which things none can do but <hi>God.</hi>
+            </p>
+            <p>Moreover, theſe <hi>Three</hi> are ſaid to be <hi>One,</hi> 1 John 5.7.</p>
+            <p n="1">1. Becauſe the <hi>Divine Eſſence</hi> is <hi>One.</hi> Further, ſomething is aſcribed to <hi>One,</hi> which cannot be applied to <hi>Another, e. g.</hi> The <hi>Father</hi> is not the <hi>Son,</hi> nor <hi>begotten;</hi> the <hi>Word was made Fleſh,</hi> dwelt amongſt
+<pb n="34" facs="tcp:65603:22"/>us, and was ſent; ſo was not the <hi>Father:</hi> Hence they are plainly diſtinct, although <hi>one God.</hi>
+            </p>
+            <p n="2">2. We think it not ſtrange, that the ſame Perſon ſhould be a <hi>Man</hi> and a <hi>Father,</hi> in different reſpects: Why may not this be believed of the <hi>Godhead?</hi> The <hi>Goſpel</hi> remarks ſeveral Actions <hi>ad intra;</hi> from whence ariſe the Relative Properties of the <hi>Bleſſed Trinity, e. g.</hi> The <hi>Father begets,</hi> the <hi>Son is begotten,</hi> the <hi>Holy Ghoſt proceeds</hi> from both.</p>
+            <p>If then the Demand be, <hi>What a Divine Perſon is?</hi> The <hi>Anſwer</hi> here is ready: It is the <hi>Divine Eſſence,</hi> inveſted with its diſtinct Propriety: Thus the <hi>Father, Son,</hi> and <hi>Holy Ghost,</hi> are all <hi>Infinite,</hi> as having an <hi>Infinite Eſſence.</hi>
+            </p>
+            <p n="3">3. Though we could not expreſs the <hi>manner</hi> of Subſiſtence in theſe <hi>Three glo<g ref="char:EOLhyphen"/>rious Perſons,</hi> yet we might be ſatisfied in the <hi>Scripture Records.</hi> If we cannot de<g ref="char:EOLhyphen"/>monſtrate how <hi>Three</hi> ſhould be <hi>One,</hi> and <hi>One Three;</hi> yet we may not bring the <hi>Re<g ref="char:EOLhyphen"/>velations of God,</hi> to the determinations of our crooked, blind, preſumptuous Argu<g ref="char:EOLhyphen"/>ings. Curious Inquiries into the Things
+<pb n="35" facs="tcp:65603:22"/>of God, are not agreeing with the nature of Faith, nor becoming true Chriſtians. <hi>Let no Man ſpoil you through Philoſophy,</hi> Col. 2 8. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: making a Prize of you, carrying you away, as Pirates do the Goods of others which they Seize: Philo<g ref="char:EOLhyphen"/>ſophy in its beſt improvement is raiſed or ſanctified Reaſon, and is excellently uſeful as an Hand-maid to Religion; but it is vain when it ſteps out of its Place, to aſcend the Throne as a Judge of divine Truth: In matters proper to it ſelf, it may be regarded: <hi>Sed cum pronuntiat de re<g ref="char:EOLhyphen"/>bus ad fidem ſpectantibus, explodienda.</hi>
+            </p>
+            <p>This was the ground of the ancient Hereſies, the debaſing of the holy Scrip<g ref="char:EOLhyphen"/>tures to the Dictates of carnal Reaſon. Be<g ref="char:EOLhyphen"/>lievers ought not to meaſure ſacred Myſte<g ref="char:EOLhyphen"/>ries by Humane Apprehenſions; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, but according to the intention of the Spirit's Doctrin.</p>
+            <p>Did any enquire into the manner of uniting the two Natures in Chriſt, we ſhould confeſs our Ignorance; yet we be<g ref="char:EOLhyphen"/>lieve upon God's diſcovery, what our Tongues cannot expreſs, or our Under<g ref="char:EOLhyphen"/>ſtandings comprehend. So <hi>Juſtin Martyr</hi> ſpeaks, <hi>Tho I cannot deſcribe the <g ref="char:V">Ʋ</g>nion, yet
+<pb n="36" facs="tcp:65603:23"/>I believe it on the Authority of God; tho I am in the dark as to thoſe things, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, which I cannot per<g ref="char:EOLhyphen"/>fectly <g ref="char:V">Ʋ</g>nderſtand nor Declare.</hi>
+            </p>
+            <p n="7">7. Exerciſe Faith, Love and Aſſurance, on all the Three Perſons of the Bleſſed Trinity.</p>
+            <p n="1">1. <hi>Faith.</hi> Father, Son, and Holy Ghoſt, are the ſupream and ultimate Object of our <hi>Faith,</hi> and the actings of this Grace are Imperfect, if it takes not in all its Ob<g ref="char:EOLhyphen"/>jects. Your Obedience is ſuſpicious if you overlook the weighty things of the Law, tho you may be diligent in leſs Duties: And your <hi>Faith</hi> may be queſtion'd, if it hath only an eye on inferior. Bleſſings, without regarding the Perſonal Promiſes of the Goſpel.</p>
+            <p>
+               <hi>Here Note,</hi>
+            </p>
+            <p n="1">1. All the <hi>Perſons</hi> are eſpecially con<g ref="char:EOLhyphen"/>cerned in ſaving <hi>Sinners,</hi> having the ſame Nature. Hence, <hi>What One Acts, the Others do likewiſe,</hi> Joh. 5.19. Yet there are pe<g ref="char:EOLhyphen"/>culiar <hi>Works</hi> attributed to each <hi>Perſon:</hi> When you think of <hi>Election,</hi> remember <hi>God the Father;</hi> when you meditate on <hi>Re<g ref="char:EOLhyphen"/>demption,</hi> ſix your Eye on <hi>God the Son;</hi> when your Minds do ſtudy the Work of
+<pb n="37" facs="tcp:65603:23"/>
+               <hi>Sanctification,</hi> forget not the <hi>Holy Ghoſt.</hi> Theſe three Conſiderations are joyned in one Verſe, 1 Pet. 1.2. <hi>Elect according to the fore-knowledge of God the Father, through Sanctification of the Spirit, and ſprinkling of the Blood of</hi> Jeſus.</p>
+            <p n="2">2. The deſign of the <hi>Goſpel,</hi> is not on<g ref="char:EOLhyphen"/>ly to make known and Glorifie the <hi>Divine Attributes, e. g.</hi> his Juſtice and Mercy, but alſo to Magnifie the <hi>Trinity</hi> in the Hearts of Believers. And the <hi>Three Perſons</hi> are not ſo much Honour'd by receiving of Spi<g ref="char:EOLhyphen"/>ritual Benefits from them in Common, as in our ſpecial noticing of their diſtinct <hi>Works;</hi> that in ſuch Bleſſings, the Perſon from whom they come may be highly Ex<g ref="char:EOLhyphen"/>alted in the Soul. <hi>Eph.</hi> 1.3. <hi>Bleſſed be the God and Father of our Lord</hi> Jeſus Chriſt, <hi>who has bleſſed us with all Spiritual Bleſſings in Heavenly Places in</hi> Chriſt.</p>
+            <p n="3">3. The <hi>Works of Grace</hi> do follow the Order of ſubſiſting in the Glorious <hi>Trinity.</hi> The Benefits in the <hi>Covenant of Grace,</hi> are attributed to God the <hi>Father,</hi> as Firſt, In Order of <hi>Nature;</hi> and next, They are a<g ref="char:EOLhyphen"/>ſcribed to the <hi>Son.</hi>
+            </p>
+            <p>Hence <hi>Adoption,</hi> which is the <hi>Father</hi>'s <hi>Act,</hi> is conceived by ſome to be the firſt
+<pb n="38" facs="tcp:65603:24"/>
+               <hi>Spiritual Bleſſing,</hi> receiv'd before <hi>Redemp<g ref="char:EOLhyphen"/>tion</hi> or <hi>Sanctification.</hi>
+            </p>
+            <p n="2">2. Manifeſt your Love towards all theſe Glorious Perſons. It will be the Honour and Pleaſure of Saints to be with an <hi>Innu<g ref="char:EOLhyphen"/>merable company of Angels;</hi> but much more to walk in the love of all the Divine Perſons, when they come to <hi>Jeſus the Me<g ref="char:EOLhyphen"/>diator of the New Covenant, and to God the Judge of all,</hi> Heb. 12.23, 24. It is ground of Faith and much Support that in their Addreſſes, Believers can go to the <hi>Father, Son, and Holy Ghoſt;</hi> feeling the <hi>Grace of the Lord Jeſus, the Love of the Father, and Fellowſhip with the Holy Spirit:</hi> Taſting the Love of God in beſtowing his Son, and admiring the Redeemer's Grace, in giv<g ref="char:EOLhyphen"/>ing himſelf.</p>
+            <p>Chriſtians ought to teſtifie their Love to each Perſon in the Glorious <hi>Trinity;</hi>
+            </p>
+            <p>By fearing to Offend, being cautious of not provoking the <hi>Father,</hi> who is a <hi>Con<g ref="char:EOLhyphen"/>ſuming Fire;</hi> alſo not to diſpleaſe our <hi>God and Saviour,</hi> according to the ancient, Charge, <hi>Exod.</hi> 23.21. <hi>Beware of him; obey his voice; provoke him not, for he will not pardon your Tranſgreſſions: For my Name is in him: Alſo dreading leſt we ſhould grieve
+<pb n="39" facs="tcp:65603:24"/>the Holy Spirit, or quench his Motions,</hi> Theſſ. 5.19.</p>
+            <p>By diſcharging Duty from a Principle of Love to all the Three Perſons: <hi>If any love me, he will keep my Words.</hi>
+            </p>
+            <p>By giving Glory to them all. Being duly affected with their particular Good<g ref="char:EOLhyphen"/>neſs. We are Baptized in their Names, and ſhould aſcribe Praiſe and Honour to the <hi>Father, Son, and Holy Ghoſt.</hi> Our Love ought to terminate on God more for what he is in himſelf, than for his Benefits to us.</p>
+            <p n="3">3. Our Aſſurance has for its Object all the <hi>Three Perſons;</hi> waiting to be <hi>Sealed,</hi> or to have their <hi>Ratification</hi> of our Evidences. St. <hi>John</hi> declares, That <hi>all the Saints ſhall partake of Eternal Life;</hi> and hereof there are three Witneſſes in <hi>Heaven,</hi> the <hi>Father, Son, and Holy Ghoſt,</hi> 1 Joh. 5.7. All theſe three do affix their Seal to this Record: Altho' if we are certain of the Love of the one, we need not doubt the Affection of them all: Yet this enſurance the Faithful may humbly expect to be enjoy'd by a direct Beam darted into the Soul, helping them in Prayer to cry <hi>Abba Father;</hi> or after Self-Examination, aſſiſting them to
+<pb n="40" facs="tcp:65603:25"/>conclude, <hi>I am my Beloved's,</hi> and <hi>my Be<g ref="char:EOLhyphen"/>loved is mine.</hi> The Soul cannot boaſt in the Lord, nor triumph in him, till it be ſa<g ref="char:EOLhyphen"/>tisfied of a Covenant-Intereſt in all the <hi>Perſons.</hi>
+            </p>
+            <p n="8">8. Obſerve the diſtinct acts of Office undertaken by the <hi>Trinity</hi> for the benefit of the Saints. <hi>e. g.</hi>
+            </p>
+            <p n="1">1. In Converſion, the <hi>Father Begets, Calls, Draws;</hi> no Man can come to <hi>Chriſt,</hi> ex<g ref="char:EOLhyphen"/>cept the <hi>Father draw him.</hi> The Lord <hi>Jeſus receives Sinners,</hi> viz. Such whoſe Souls the <hi>Father</hi> gave him: Theſe ſhall come unto him, and none elſe: Nor will he caſt off any that come unto him.</p>
+            <p>The <hi>Holy Spirit</hi> he Unites <hi>God, Chriſt,</hi> and the <hi>Soul;</hi> or is the Bond of Union betwixt Believers and their Myſtical Head, Baptizing them all into one Body.</p>
+            <p n="2">2. In Duties performed by the Faith<g ref="char:EOLhyphen"/>ful, each <hi>Glorious Perſon</hi> is particularly con<g ref="char:EOLhyphen"/>cerned: <hi>e. g.</hi>
+            </p>
+            <p n="1">1. In <hi>Hearing,</hi> we hear the Truth of <hi>God the Father.</hi> The Goſpel hence is called, <hi>A Mystery hid in God from many Ages.</hi> The Lord <hi>Jeſus</hi> who ſits upon the Throne, he opens the Book of the Heavenly Councils;
+<pb n="41" facs="tcp:65603:25"/>for this he is ſtiled, The <hi>Word of God,</hi> or Interpreter of the <hi>Father</hi>'s Mind; as words diſcover our Conceptions. By virtue of his Prieſthood, as he is the <hi>Lamb Slain, he opens the Book,</hi> Rev. 5.9. There is not a Truth diſcover'd but it coſt the Blood of Chriſt. <hi>Thou art worthy to take the Book and to open the Seals, for thou waſt Slain and haſt Redeemed us to God by thy Blood. Grace and Truth came by</hi> Jeſus Chriſt <hi>Meritori<g ref="char:EOLhyphen"/>ouſly,</hi> Joh. 1.17. The <hi>Bleſſed Spirit</hi> he ap<g ref="char:EOLhyphen"/>plies the Eye-Salve to grant us an Under<g ref="char:EOLhyphen"/>ſtanding of what is Revealed; and ingrafts the Word in our Hearts.</p>
+            <p n="2">2. In Prayer God the <hi>Father</hi> is addreſſed to; to him we look up, ſaying <hi>Our Father:</hi> Not but that <hi>Chriſt</hi> and the <hi>Spirit</hi> may be Prayed to as well as Believed on; being equally God. But from the diſtinct Offi<g ref="char:EOLhyphen"/>ces of theſe Bleſſed <hi>Perſons,</hi> we therefore Supplicate God as the <hi>Object</hi> and hearer of our Petitions: We regard the <hi>Son</hi> as our <hi>Advocate;</hi> and the <hi>Holy Ghoſt</hi> as an <hi>Interceſſor</hi> in us: The <hi>Spirit</hi> Indites our <hi>Requeſts,</hi> and <hi>Jeſus</hi> Preſents them with his own <hi>Odours,</hi> Rev. 8.3.</p>
+            <p>
+               <pb n="42" facs="tcp:65603:26"/>
+               <hi>And here Note,</hi>
+            </p>
+            <p>Theſe diſtinct Offices of the <hi>Trinity,</hi> are only during the adminiſtration of <hi>Chriſt</hi>'s Mediatory Kingdom: When that is finiſh<g ref="char:EOLhyphen"/>ed, the <hi>Father</hi> will draw none to <hi>Chriſt;</hi> The <hi>Son</hi> will Offer no Sacrifice unto <hi>God;</hi> the <hi>Holy Ghoſt</hi> will no longer aſſiſt, Sancti<g ref="char:EOLhyphen"/>ſie, or Seal us in this Life; but <hi>Grace</hi> ſhall be perfect, and the ends of the <hi>Co<g ref="char:EOLhyphen"/>venant</hi> be attained. Till the Reſtitution of all Things, peculiar Glory redounds to each Divine <hi>Perſon,</hi> by theſe Offices. The <hi>Father</hi> reconciles the World to him<g ref="char:EOLhyphen"/>ſelf: The <hi>Son</hi> took the form of a <hi>Servant</hi> to purchaſe Eternal Life; therefore he is Glorified in his People's Hearts: The <hi>Bleſ<g ref="char:EOLhyphen"/>ſed Spirit</hi> begins the work of Grace, and perfects it. <hi>All ſaving habits are Fruits of the Spirit;</hi> and for this he is diſtinctly Adored. <hi>The Hearts of Saints are Ra<g ref="char:EOLhyphen"/>viſhed with the Love, Goodneſs, and kind Offices of the Glorious Trinity,</hi> Rev. 1.4, 5, 6.</p>
+            <p>God doth not barely aim at the Glory of his <hi>Eſſence,</hi> but at an exalting the Ex<g ref="char:EOLhyphen"/>cellency of the Perſons, as well as at the
+<pb n="43" facs="tcp:65603:26"/>admiring the <hi>Attributes of the Deity.</hi> Rev. 4.8. <hi>They rest not day and night, ſaying, Holy, holy, holy:</hi> By a conſtantly repeated Ac<g ref="char:EOLhyphen"/>clamation, they acknowledge <hi>One God,</hi> and confeſs him alſo to be <hi>Three Perſons.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:65603:27"/>
+            <head>Books Printed for <hi>John Dun<g ref="char:EOLhyphen"/>ton</hi> at the <hi>Raven</hi> in the <hi>Poultrey.</hi>
+            </head>
+            <list>
+               <item>1. <hi>PRopoſals for a National Reformation of Manners;</hi> Humbly offered to the Conſideration of our Magiſtrates and Clergy. To which is added, I. <hi>The In<g ref="char:EOLhyphen"/>ſtrument for Reformation.</hi> II. <hi>An Account of ſeveral Barbarous Villanies, detected by the Society for Reformation:</hi> As the ſame have been Sworn before two of Their Maje<g ref="char:EOLhyphen"/>ſties <hi>Juſtices of the Peace:</hi> As alſo the <hi>Black Roll;</hi> containing the Names and Crimes of ſeveral hundred Perſons who have been lately Proſecuted for <hi>Whoring, Drunken<g ref="char:EOLhyphen"/>neſs, Sabbath-breaking.</hi> The whole Pub<g ref="char:EOLhyphen"/>liſhed by the <hi>Society for Reformation.</hi> Price 6 <hi>d.</hi>
+               </item>
+               <item>2. <hi>A Narrative</hi> of the late extraordi<g ref="char:EOLhyphen"/>ry Cure in an Inſtant, wrought upon Mrs. <hi>Elizabeth Savage,</hi> (Lame from her Birth) without the uſe of any Natural Means; with the <hi>Affidavits</hi> which were made be<g ref="char:EOLhyphen"/>fore the Right Honourable the <hi>Lord Mayor,</hi> and the <hi>Certificates</hi> of ſeveral Credible Perſons who knew her both before and
+<pb facs="tcp:65603:27"/>ſince this Cure: Enquir'd into with all its Circumſtances by Noted <hi>Divines,</hi> both of the Church of <hi>England</hi> and others, and by Eminent <hi>Phyſicians</hi> of the Colledge, and many Perſons of <hi>Quality,</hi> who have ex<g ref="char:EOLhyphen"/>preſs'd their full Satisfaction: With an <hi>APPENDIX,</hi> attempting to prove, that <hi>Miracles are not ceas'd.</hi> Price 6 <hi>d.</hi>
+               </item>
+               <item>3. <hi>This is to give Notice,</hi> That it was deſign'd, that no Perſons who did not Subſcribe to the 2<hi>d.</hi> 3<hi>d.</hi> and 4th. Volumes of the <hi>French Book of Martyrs,</hi> &amp;c. (which with the <hi>Firſt</hi> lately Publiſh'd, compleat the Work) by the 24th of <hi>December</hi> laſt, ſhould have had any Advantage by the <hi>Propoſals</hi> made concerning it; but at the requeſt of ſeveral who have greatly encouraged the Work, and who have not quite compleated their <hi>Setts,</hi> the Under<g ref="char:EOLhyphen"/>taker now gives till the 10th. of <hi>March</hi> for the ſending in Subſcriptions, but af<g ref="char:EOLhyphen"/>ter that, no further time will be given, the Work being to be deliver'd <hi>pe fect</hi> to the Subſcribers by the 25th of next <hi>March. Propoſals</hi> are to be had by the Underta<g ref="char:EOLhyphen"/>ker <hi>John Dunton,</hi> at the <hi>Ravon</hi> in the <hi>Poul<g ref="char:EOLhyphen"/>trey,</hi> and of moſt Bookſellers both in <hi>Lon<g ref="char:EOLhyphen"/>don</hi> and the Country.</item>
+               <item>
+                  <pb facs="tcp:65603:28"/>4. Biſhop <hi>Barlow</hi>'s <hi>REMAINS:</hi> Con<g ref="char:EOLhyphen"/>taining neer an Hundred diſtinct Subjects, <hi>Theological, Philoſophical, Hiſtorical,</hi> &amp;c. in Letters to ſeveral Perſons of Honour and Quality. To which is added, the Reſo<g ref="char:EOLhyphen"/>lution of many abſtruſe Points; as alſo Di<g ref="char:EOLhyphen"/>rections to a young Divine for his <hi>Study of Divinity</hi> and Choice of his <hi>Library.</hi> Pu<g ref="char:EOLhyphen"/>bliſh'd from his Lordſhips Original Papers. <hi>Price Bound,</hi> 6 <hi>s.</hi>
+               </item>
+               <item>5. The <hi>Third Edition</hi> of the Life and Death of the Reverend Mr. <hi>John Eliot,</hi> who was the firſt Preacher of the Goſpel to the <hi>Indians</hi> in <hi>America:</hi> With an account of the wonderful Succeſs which the Goſpel has had amongſt the Heathen in that part of the World: And of the many ſtrange Cuſtoms of the <hi>Pagan Indians</hi> in <hi>New-Eng<g ref="char:EOLhyphen"/>land.</hi> Written by <hi>Cotton Mather.</hi>
+               </item>
+               <item>6. The Twelfth Volume of the <hi>Athenian Gazette,</hi> or <hi>Caſuiſtical Mercury,</hi> (neatly done up in <hi>Marble-Paper,</hi> with a <hi>General Title, Preface</hi> and <hi>Index</hi> to it) is newly finiſh'd, reſolving all the moſt Nice and Curious <hi>Queſtions</hi> Propoſed by the Inge<g ref="char:EOLhyphen"/>nious of <hi>Either Sex,</hi> from <hi>Saturday, Octo<g ref="char:EOLhyphen"/>ber</hi> 21. to <hi>Tueſday February</hi> 6. 1694. Print<g ref="char:EOLhyphen"/>ed for <hi>John Dunton,</hi> at the <hi>Raven</hi> in the <hi>Poultrey:</hi> Where is to be had the Entire
+<pb facs="tcp:65603:28"/>Sett of <hi>Athenian Gazetes</hi> (and the <hi>Supple<g ref="char:EOLhyphen"/>ments</hi> to 'em) for the Year, 1691: As alſo the <hi>Entire Sett</hi> for the Year, 1692. (Or ſingle Volumes, or Mercuries to this time.)</item>
+               <item>7. <hi>The Young Student's Library;</hi> contain<g ref="char:EOLhyphen"/>ing Extracts and Abridgments of the moſt valuable Books Printed in <hi>England,</hi> and in the Foreign Journals, from the Year, 1665. till <hi>May,</hi> 1692. To which is added a new <hi>Eſſay</hi> upon all ſorts of Learning, by the <hi>Athenian Society:</hi> As alſo a Diſcourſe con<g ref="char:EOLhyphen"/>cerning the Antiquity, Divine Original and Authority of the Points, Vowels and Accents that are plac'd to the <hi>Hebrew Bible. The Compleat Library,</hi> Publiſh'd Monthly, is a Continuation of this Work.</item>
+               <item>8. <hi>The Firſt Volume of the COMPLEAT LIBRARY:</hi> Containing an Hiſtorical Ac<g ref="char:EOLhyphen"/>count of the Choiceſt Books Printed in <hi>England</hi> and in the Foreign Journals, for the Months of <hi>May, June, July, Auguſt, September, October,</hi> and <hi>November,</hi> 1692. As alſo <hi>The State of Learning</hi> for thoſe Months: To which is added <hi>two Alphabe<g ref="char:EOLhyphen"/>tical Tables,</hi> the one of the Books, and the other of the Matters.</item>
+               <item>9. <hi>The Second Volume of the Compleat Library</hi> for the Months of <hi>December, Janu<g ref="char:EOLhyphen"/>ary,
+<pb facs="tcp:65603:29"/>February, March, April, May, June, July, August, September, October, Novem<g ref="char:EOLhyphen"/>ber, December,</hi> 1693. To which is added, <hi>two Alphabetical Tables;</hi> the one of the Books, and the other of the Matters.</item>
+               <item>10. The Tryals of ſeveral Witches lately Executed in <hi>New-England,</hi> with ma<g ref="char:EOLhyphen"/>ny <hi>remarkable Curioſities therein occurring,</hi> &amp;c. Publiſhed by the Special Command of his Excellency the Governor of <hi>New England;</hi> Firſt Printed at <hi>Boſton,</hi> and now Reprint<g ref="char:EOLhyphen"/>ed. <hi>The Third Edition.</hi>
+               </item>
+               <item>11. A further account of the Tryals of the <hi>New-England</hi> Witches; with the Ob<g ref="char:EOLhyphen"/>ſervations of a Perſon that was upon the Place ſix or ſeven days, when the <hi>Suſpected Witches</hi> were taken into Examination: To which is added, Caſes of Conſcience con<g ref="char:EOLhyphen"/>cerning <hi>Witcheraft and evil Spirits Perſona<g ref="char:EOLhyphen"/>ting Men.</hi> Written at the Requeſt of the Miniſters of <hi>New-England.</hi> By <hi>Increaſe Mather,</hi> Preſident of <hi>Harvard-Colledge.</hi> Price 1 <hi>s. This Book is Printed on the ſame ſize with the firſt Accounts of the</hi> Witch-Tryals, that they might Bind up toge<g ref="char:EOLhyphen"/>ther.</item>
+            </list>
+            <pb facs="tcp:65603:29"/>
+         </div>
+      </back>
+   </text>
+</TEI>
